@@ -2,3 +2,7 @@ Chat Application
 
 Message
 Emoji
+
+camera
+color
+
